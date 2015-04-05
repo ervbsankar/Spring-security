@@ -1,0 +1,84 @@
+2015-04-05 02:50:21,599 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:50:22,090 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:22,092 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:50:22,094 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:22,094 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:50:22,204 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Security/src
+2015-04-05 02:50:22,204 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring-Security/src/test/java because it overlaps with /Spring-Security/src
+2015-04-05 02:50:23,300 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:50:23,366 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:23,367 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:50:23,368 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:23,369 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:50:55,394 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:50:55,434 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:55,435 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:50:55,436 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:50:55,437 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:53:49,463 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:53:49,876 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.pom
+2015-04-05 02:53:49,988 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,047 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,120 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,185 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,271 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,373 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,462 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,513 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,616 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,683 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,750 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.pom
+2015-04-05 02:53:50,876 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2015-04-05 02:53:51,597 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2015-04-05 02:53:51,689 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar
+2015-04-05 02:53:52,899 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar
+2015-04-05 02:53:52,945 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar
+2015-04-05 02:53:54,386 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar
+2015-04-05 02:53:54,455 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar
+2015-04-05 02:53:55,689 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar
+2015-04-05 02:53:55,716 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar
+2015-04-05 02:53:56,084 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar
+2015-04-05 02:53:56,122 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar
+2015-04-05 02:53:56,993 [Worker-12] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar
+2015-04-05 02:53:57,516 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc//spring-webmvc-.pom
+2015-04-05 02:53:57,526 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar: is missing, no dependency information available
+2015-04-05 02:53:57,762 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context//spring-context-.pom
+2015-04-05 02:53:57,769 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-context:jar: is missing, no dependency information available
+2015-04-05 02:54:27,081 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:54:27,322 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:54:27,323 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:54:27,324 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:54:27,325 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:55:02,063 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-04-05 02:55:02,181 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:55:02,346 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Security/src
+2015-04-05 02:55:02,346 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring-Security/src/test/java because it overlaps with /Spring-Security/src
+2015-04-05 02:55:02,793 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:55:02,978 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:55:02,979 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:55:02,981 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:55:02,982 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:55:56,424 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:55:56,611 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:55:56,612 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:55:56,614 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:55:56,615 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:56:14,677 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:56:14,835 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:56:14,836 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:56:14,837 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:56:14,838 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:57:12,989 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-04-05 02:57:13,064 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:57:13,228 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Security/src
+2015-04-05 02:57:13,229 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring-Security/src/test/java because it overlaps with /Spring-Security/src
+2015-04-05 02:57:13,689 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:57:13,841 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:57:13,842 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:57:13,844 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:57:13,845 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
+2015-04-05 02:57:33,353 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Security:Secure:0.0.1-SNAPSHOT @ C:\Git B\Sprojects\Spring_Security\Spring-Security\pom.xml.
+2015-04-05 02:57:33,502 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:57:33,503 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\main\resources
+2015-04-05 02:57:33,504 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-04-05 02:57:33,505 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Git B\Sprojects\Spring_Security\Spring-Security\src\test\resources
