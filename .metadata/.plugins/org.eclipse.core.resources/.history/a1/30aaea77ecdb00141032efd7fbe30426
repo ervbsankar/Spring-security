@@ -1,0 +1,5 @@
+package com.MPN.controllers;
+
+public class HomeController {
+
+}
